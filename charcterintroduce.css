@@ -1,0 +1,88 @@
+body {
+    font-family: Helvetica, Arial, sans-serif,;
+    font-size: 20px;
+    margin:0;
+    line-height: 30px;
+}
+
+header {
+background-color: rgb(199, 21, 21);
+text-align: center;
+padding-top: 50px;
+padding-bottom: 50px
+}
+
+header img {
+    border-radius: 50px;
+    border: 20px solid rgb(255, 236, 23);
+}
+
+header h1 {
+    color: #fff;
+    font-size: 50px;
+    font-family: 'Gamja Flower', cursive;
+}
+
+h1,h2 {
+    font-family: 'Gamja Flower', cursive;
+}
+
+h3,h4{
+    font-size: 30px;
+    font-family: 'Dongle', sans-serif;
+    margin: 20px; 0 10px;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main img {
+    max-width: 100%;
+}
+
+h2 {
+    font-size: 30px;
+    color: crimson;
+    margin: 20px; 0 10px;
+}
+
+p.caption {
+    color:rgb(88, 87, 87);
+    font-style: italic;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+hr {
+    margin-bottom: 40px;
+}
+
+a {
+    color: coral;
+}
+
+a:hover {color: burlywood;}
+
+footer {
+    background-color: rgb(199, 21, 21);
+    text-align: center;
+    color: #fff;
+    padding: 50px;
+}
+
+footer a {
+    color: #fff;
+}
+
+footer p {
+    margin: 0px;
+}
+
+footer a:hover {
+    opacity: 0.5;
+    background-color: transparent;
+}
+
